@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nicola Tonellotto",
+    "label": "Associate Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nicola.tonellotto@unipi.it",
+    "phone": "+39 050 2217691",
+    "url": "https://tonellotto.github.io/",
+    "summary": "Professor of Information Retrieval",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Largo Lazzarino 1",
+      "postalCode": "56100",
+      "city": "Pisa",
+      "countryCode": "IT",
     },
     "profiles": [
       {
